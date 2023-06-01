@@ -1,6 +1,6 @@
 # AS-ViT
 
-Implement of [Adaptive Sparse ViT](https://arxiv.org/abs/2209.13802)(IJCAI 23)
+Implement of [Adaptive Sparse ViT](https://arxiv.org/abs/2209.13802)
 
 ![](figs/frame.JPG)
 
